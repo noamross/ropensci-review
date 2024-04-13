@@ -47,8 +47,8 @@ Here we will:
 
 [rOpenSci's software-review repo](https://github.com/ropensci/software-review) links to our: 
 
-* [Code of conduct](https://ropensci.org/code-of-conduct/): The way we communicate.
-* ["devguide"](https://devguide.ropensci.org/): The way we build and review software.
+* The way we communicate: [Code of conduct](https://ropensci.org/code-of-conduct/).
+* The way we build and review software: [The "devguide"](https://devguide.ropensci.org/).
 
 ## The way we communicate: Why is it so important?
 
