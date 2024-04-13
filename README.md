@@ -31,8 +31,14 @@ I build tools to help researchers get the most out of their data.
 
 Before I was a biologist.
 
-My roles at rOpenSci: runconf participant, rejected author, co-author, reviewer,
-guest editor, editor, editor in chief, mentor.
+My roles at rOpenSci: 
+
+* runconf participant, 
+* rejected author, 
+* co-author, 
+* reviewer,
+* editor, 
+* contributor to the champion's program.
 
 ## How can this talk help you?
 
