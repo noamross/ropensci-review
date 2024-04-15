@@ -2,7 +2,7 @@
 title: How rOpenSci performs peer-review
 author: Mauro Lepore 
 date: https://github.com/maurolepore/ropensci-review
-output: github_document
+output: ioslides_presentation
 ---
 
 ## Outline
