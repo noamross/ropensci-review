@@ -9,7 +9,8 @@ output: ioslides_presentation
 
 * Introduction
   * About you and me
-  * Why this process, and why this talk?
+  * Why peer-review? 
+  * Why this talk?
   
 * Two crucial components
   * The way we communicate.
@@ -34,11 +35,13 @@ About me:
 * Before I was a biologist.
 * I joined rOpenSci in 2018 and played different roles.
 
-## [Why rOpenSci has a peer-review process?](https://github.com/ropensci/software-review?tab=readme-ov-file#why-and-how-submit-your-package-to-ropensci)
+## [Why peer-review?](https://github.com/ropensci/software-review?tab=readme-ov-file#why-and-how-submit-your-package-to-ropensci)
 
-## Why this talk? | The process is complex and can feel overwhelming
+## Why this talk?
 
-This talk helps in at least three ways:
+The process is complex and can feel overwhelming.
+
+This talk can help in at least three ways:
 
 * Highlights the most important materials.
 * Shows you where you can find the rest.
@@ -53,7 +56,11 @@ This talk helps in at least three ways:
 * The way we communicate: [Code of conduct](https://ropensci.org/code-of-conduct/).
 * The way we build and review software: ["Devguide"](https://devguide.ropensci.org/).
 
-## Be kind and respectful | [Example of a kind and respectful reviewer's response](https://github.com/ropensci/software-review/issues/577#issuecomment-1494333794)
+## Be kind and respectful
+
+[Example of a kind and respectful reviewer's response](https://github.com/ropensci/software-review/issues/577#issuecomment-1494333794).
+
+--
 
 > "It's like when I hold the door open for someone."
 >
