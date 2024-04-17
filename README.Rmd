@@ -26,12 +26,11 @@ output: ioslides_presentation
 
 About you:
 
-* You're curious about rOpenSci's review process.
-* You may want to author, review, or edit an R package for rOpenSci.
+* You may want to be an author, reviewer, or editor.
 
 About me:
 
-* I build tools to help researchers get the most out of their data.
+* I build tools to support research in green finance.
 * Before I was a biologist.
 * I joined rOpenSci in 2018 and played different roles.
 
