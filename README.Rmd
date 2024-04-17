@@ -40,7 +40,7 @@ About me:
 
 The process is complex and can feel overwhelming.
 
-This talk can help in at least three ways:
+This talk:
 
 * Highlights the most important materials.
 * Shows you where you can find the rest.
@@ -50,21 +50,18 @@ This talk can help in at least three ways:
 
 ## Two crucial components
 
-"[Helping to improve software] in a kind and respectful way is just as important as the technical aspect". -- Yanina Bellini Saibene
-
 * The way we communicate: [Code of conduct](https://ropensci.org/code-of-conduct/).
 * The way we build and review software: ["Devguide"](https://devguide.ropensci.org/).
+
+> "[Helping to improve software] in a kind and respectful way is just as important as the technical aspect".  
+> -- Yanina Bellini Saibene
 
 ## Be kind and respectful
 
 [Example of a kind and respectful reviewer's response](https://github.com/ropensci/software-review/issues/577#issuecomment-1494333794).
 
---
-
-> "It's like when I hold the door open for someone."
->
-> "Even when someone volunteers their time, there is a cost of their time and effort."
-> 
+> "It's like when I hold the door open for someone."  
+> "Even when someone volunteers their time, there is a cost of their time and effort."  
 > -- [Setting expectations for open source
 participation](https://snarky.ca/setting-expectations-for-open-source-participation/amp/)
 
